@@ -1,0 +1,17 @@
+@import "./sliding.css";
+
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: 'Inter Bold';
+    src: local('Inter Bold'), url('./assets/fonts/Inter-Bold.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'EB Garamond SemiBold';
+    src: local('EB Garamond SemiBold'), url('./assets/fonts/EBGaramond-SemiBold.ttf') format('ttf');
+}
+
+@tailwind utilities;
+
