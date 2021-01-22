@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14200104-d6b1-4fec-922b-c18980e5b6c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Elgoc-Thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/ElgocAlt-Thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/macbook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/tailwind.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +63,23 @@
       <updated>1611236633075</updated>
       <workItem from="1611236634215" duration="11710000" />
       <workItem from="1611251493199" duration="154000" />
-      <workItem from="1611251772831" duration="15626000" />
+      <workItem from="1611251772831" duration="24241000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1611269139134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611269139134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

@@ -14,7 +14,11 @@ module.exports = {
             },
             fontFamily: {
                 'inter': ['"Inter Bold"', 'serif'],
-                'garamond': ['"EB Garamond SemiBold"', 'serif'],
+                'elgoc-thin': ['"Elgoc Thin"', 'serif'],
+                'elgoc-thin-alt': ['"Elgoc Thin Alt"', 'serif'],
+            },
+            zIndex: {
+                '-10': '-10',
             }
         },
     },

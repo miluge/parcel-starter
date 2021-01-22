@@ -9,8 +9,13 @@
 }
 
 @font-face {
-    font-family: 'EB Garamond SemiBold';
-    src: local('EB Garamond SemiBold'), url('./assets/fonts/EBGaramond-SemiBold.ttf') format('ttf');
+    font-family: 'Elgoc Thin';
+    src: local('Elgoc'), url('./assets/fonts/Elgoc-Thin.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Elgoc Thin Alt';
+    src: local('Elgoc'), url('./assets/fonts/ElgocAlt-Thin.otf') format('otf');
 }
 
 @tailwind utilities;
