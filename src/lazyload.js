@@ -24,4 +24,3 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }
 });
-When you lazy-load a <video> element, you need to iterate through all of the child <source> elements an
