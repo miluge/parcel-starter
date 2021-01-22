@@ -18,8 +18,5 @@
     "postcss": "^7.0.35",
     "rellax": "^1.12.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
-  },
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
   }
 }
