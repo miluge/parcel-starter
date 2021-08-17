@@ -1,6 +1,6 @@
-# empty-project
+# Parcel / Tailwind CSS starter template
 
-Empty project.
+A starter template using Parcel and Tailwind CSS
 
 ## Building and running on localhost
 
